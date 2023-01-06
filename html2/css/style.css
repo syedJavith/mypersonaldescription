@@ -1,0 +1,88 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif ;
+} 
+   
+h1{
+    font-size: 5.625rem;
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:  #66BFBF;
+    line-height: 2;
+}
+hr{
+    border-style: dotted none none ;
+    height: 0px;
+    width: 90%;
+    border-width: 5px ;
+    border-color: gray;
+    
+}
+.div{
+    background-color: aliceblue;
+    padding-top: 200px;
+    position: relative;
+}
+h2{
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+h3 , a{
+    color:  #11999E;
+}
+.skill-row{
+   width : 50%;
+   margin: 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.icon1 , .icon2 {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.div2 {
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    background-color: #11999E;
+}
+.icon3 {
+    width: 2%;
+    height: 2%;
+}
+.links {
+    word-spacing: 50px;
+}
+.Thank{
+    font-size: 2rem;
+}
+/* .div1 {
+   height: 200px;
+   width: 200px;
+   background-color: red;
+   position: relative;
+   
+   position: absolute ;
+   left: 400px;
+   top: 400px;
+} 
+.div2 {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute ;
+    left: 200px;
+    top: 200px;
+} */
+.bt {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.tc{
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+}
